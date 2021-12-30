@@ -1,0 +1,9 @@
+Package: com.said.pubgjbbypass
+Name: PUBG JB Bypass
+Version: 0.2
+Architecture: iphoneos-arm
+Description: Bypass PUBG Mobile v1.7.0 / PUBG New State v0.9.22 Jailbreak Detection
+Maintainer: Said Al Mujaini
+Author: Said Al Mujaini
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
